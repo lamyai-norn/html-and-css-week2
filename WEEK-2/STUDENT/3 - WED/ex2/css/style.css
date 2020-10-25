@@ -1,0 +1,28 @@
+caption{
+    background-color:blue;
+    padding:20px;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    color:white;
+}
+
+th{
+    background-color:lightblue;
+    color:white;
+    font-family:arial;
+    padding:10px;
+    text-transform:uppercase;
+}
+table,tr,th,td{
+    border:1px solid #ddddde;
+    border-collapse:collapse;
+    margin: 0 auto;
+    text-align:center;
+}
+table,th{
+    border:none;
+}
+td{
+    border:none;
+    padding:15px;
+}
